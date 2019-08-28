@@ -15,8 +15,7 @@ To run on multiple terminal windows:
 
 To cleanup:
 
-- run docker-compose down
-- run docker rmi rails-docker_ruby_dev
+- run `docker-compose down`
 
 ### Jekyll
 
